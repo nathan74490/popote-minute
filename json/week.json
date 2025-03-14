@@ -1,0 +1,31 @@
+{
+    "lundi": {
+      "plat": "Poulet rôti avec pommes de terre",
+      "dessert": "Tarte aux pommes"
+    },
+    "mardi": {
+      "plat": "Spaghetti bolognaise",
+      "dessert": "Mousse au chocolat"
+    },
+    "mercredi": {
+      "plat": "Gratin de courgettes",
+      "dessert": "Île flottante"
+    },
+    "jeudi": {
+      "plat": "Saumon grillé avec riz",
+      "dessert": "Salade de fruits"
+    },
+    "vendredi": {
+      "plat": "Pizza maison",
+      "dessert": "Tiramisu"
+    },
+    "samedi": {
+      "plat": "Boeuf bourguignon",
+      "dessert": "Crème brûlée"
+    },
+    "dimanche": {
+      "plat": "Rôti de veau avec légumes",
+      "dessert": "Fondant au chocolat"
+    }
+  }
+  
