@@ -1,31 +1,101 @@
 {
     "lundi": {
-      "plat": "Poulet rôti avec pommes de terre",
-      "dessert": "Tarte aux pommes"
+      "plat": {
+        "nom": "Poulet rôti avec pommes de terre",
+        "description": "Poulet rôti croustillant accompagné de pommes de terre fondantes.",
+        "prix": 12.50,
+        "photo": "https://example.com/poulet_roti.jpg"
+      },
+      "dessert": {
+        "nom": "Tarte aux pommes",
+        "description": "Tarte aux pommes maison avec une pâte sablée croustillante.",
+        "prix": 5.00,
+        "photo": "https://example.com/tarte_pommes.jpg"
+      }
     },
     "mardi": {
-      "plat": "Spaghetti bolognaise",
-      "dessert": "Mousse au chocolat"
+      "plat": {
+        "nom": "Spaghetti bolognaise",
+        "description": "Spaghettis savoureux avec une sauce bolognaise maison.",
+        "prix": 11.00,
+        "photo": "https://example.com/spaghetti_bolognaise.jpg"
+      },
+      "dessert": {
+        "nom": "Mousse au chocolat",
+        "description": "Mousse au chocolat noir onctueuse et gourmande.",
+        "prix": 4.50,
+        "photo": "https://example.com/mousse_chocolat.jpg"
+      }
     },
     "mercredi": {
-      "plat": "Gratin de courgettes",
-      "dessert": "Île flottante"
+      "plat": {
+        "nom": "Gratin de courgettes",
+        "description": "Gratin fondant aux courgettes et fromage.",
+        "prix": 10.50,
+        "photo": "https://example.com/gratin_courgettes.jpg"
+      },
+      "dessert": {
+        "nom": "Île flottante",
+        "description": "Blancs d'œufs montés en neige sur une crème anglaise vanillée.",
+        "prix": 5.50,
+        "photo": "https://example.com/ile_flottante.jpg"
+      }
     },
     "jeudi": {
-      "plat": "Saumon grillé avec riz",
-      "dessert": "Salade de fruits"
+      "plat": {
+        "nom": "Saumon grillé avec riz",
+        "description": "Filet de saumon grillé accompagné de riz parfumé.",
+        "prix": 13.00,
+        "photo": "https://example.com/saumon_grille.jpg"
+      },
+      "dessert": {
+        "nom": "Salade de fruits",
+        "description": "Mélange frais de fruits de saison.",
+        "prix": 4.00,
+        "photo": "https://example.com/salade_fruits.jpg"
+      }
     },
     "vendredi": {
-      "plat": "Pizza maison",
-      "dessert": "Tiramisu"
+      "plat": {
+        "nom": "Pizza maison",
+        "description": "Pizza maison garnie de sauce tomate, mozzarella et basilic frais.",
+        "prix": 9.50,
+        "photo": "https://example.com/pizza_maison.jpg"
+      },
+      "dessert": {
+        "nom": "Tiramisu",
+        "description": "Tiramisu classique au café et mascarpone.",
+        "prix": 6.00,
+        "photo": "https://example.com/tiramisu.jpg"
+      }
     },
     "samedi": {
-      "plat": "Boeuf bourguignon",
-      "dessert": "Crème brûlée"
+      "plat": {
+        "nom": "Boeuf bourguignon",
+        "description": "Boeuf mijoté au vin rouge avec carottes et champignons.",
+        "prix": 14.00,
+        "photo": "https://example.com/boeuf_bourguignon.jpg"
+      },
+      "dessert": {
+        "nom": "Crème brûlée",
+        "description": "Crème brûlée à la vanille avec une fine couche de caramel croquant.",
+        "prix": 5.50,
+        "photo": "https://example.com/creme_brulee.jpg"
+      }
     },
     "dimanche": {
-      "plat": "Rôti de veau avec légumes",
-      "dessert": "Fondant au chocolat"
+      "plat": {
+        "nom": "Rôti de veau avec légumes",
+        "description": "Rôti de veau tendre accompagné de légumes de saison.",
+        "prix": 15.00,
+        "photo": "https://example.com/roti_veau.jpg"
+      },
+      "dessert": {
+        "nom": "Fondant au chocolat",
+        "description": "Fondant au chocolat au cœur coulant.",
+        "prix": 6.50,
+        "photo": "https://example.com/fondant_chocolat.jpg"
+      }
     }
   }
   
