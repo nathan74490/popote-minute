@@ -6,23 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     
-    <title>acceuil</title>
+    <title>Document</title>
 </head>
 
 <body>
     <div id="header">
         <ul id="menu">
             
-            sdlfbdopsif
+            
         
         </ul>
         <p id="test"></p>
         
     </div>
-    <div id="content">
-        <!-- <?php
-            include 'content.php'
-        ?> -->
+    <div id="body">
         
     </div>
     <div id="footer">footer</div>
