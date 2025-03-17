@@ -11,6 +11,7 @@
 
 <body>
     <div id="header">
+    <img src="images/logo.jpeg" alt="Ma description d'image" />
         <ul id="menu">
             
             
@@ -22,7 +23,11 @@
     <div id="body">
         
     </div>
-    <div id="footer">footer</div>
+    <div id="footer">
+        <?php
+        include 'footer.php';
+        ?>
+    </div>
    <script src="script.js"></script>
 </body>
 

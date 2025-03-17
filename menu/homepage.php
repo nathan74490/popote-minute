@@ -1,3 +1,1 @@
-<?php
-    echo "<h1>vous etes sur la homepage</h1>";
-?>
+<h1> Bienvenue sur Popote-Minute</h1>

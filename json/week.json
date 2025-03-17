@@ -4,13 +4,13 @@
         "nom": "Poulet rôti avec pommes de terre",
         "description": "Poulet rôti croustillant accompagné de pommes de terre fondantes.",
         "prix": 12.50,
-        "photo": "https://example.com/poulet_roti.jpg"
+        "photo": "images/poulet.jpeg"
       },
       "dessert": {
         "nom": "Tarte aux pommes",
         "description": "Tarte aux pommes maison avec une pâte sablée croustillante.",
         "prix": 5.00,
-        "photo": "https://example.com/tarte_pommes.jpg"
+        "photo": "images/pomme.jpeg"
       }
     },
     "mardi": {
@@ -18,13 +18,13 @@
         "nom": "Spaghetti bolognaise",
         "description": "Spaghettis savoureux avec une sauce bolognaise maison.",
         "prix": 11.00,
-        "photo": "https://example.com/spaghetti_bolognaise.jpg"
+        "photo": "images/spaghettis.jpg"
       },
       "dessert": {
         "nom": "Mousse au chocolat",
         "description": "Mousse au chocolat noir onctueuse et gourmande.",
         "prix": 4.50,
-        "photo": "https://example.com/mousse_chocolat.jpg"
+        "photo": "images/chocolat.jpeg"
       }
     },
     "mercredi": {
@@ -32,13 +32,13 @@
         "nom": "Gratin de courgettes",
         "description": "Gratin fondant aux courgettes et fromage.",
         "prix": 10.50,
-        "photo": "https://example.com/gratin_courgettes.jpg"
+        "photo": "images/courgettes.jpeg"
       },
       "dessert": {
         "nom": "Île flottante",
         "description": "Blancs d'œufs montés en neige sur une crème anglaise vanillée.",
         "prix": 5.50,
-        "photo": "https://example.com/ile_flottante.jpg"
+        "photo": "images/ile.jpeg"
       }
     },
     "jeudi": {
@@ -46,13 +46,13 @@
         "nom": "Saumon grillé avec riz",
         "description": "Filet de saumon grillé accompagné de riz parfumé.",
         "prix": 13.00,
-        "photo": "https://example.com/saumon_grille.jpg"
+        "photo": "images/saumon.webp"
       },
       "dessert": {
         "nom": "Salade de fruits",
         "description": "Mélange frais de fruits de saison.",
         "prix": 4.00,
-        "photo": "https://example.com/salade_fruits.jpg"
+        "photo": "images/fruit.jpeg"
       }
     },
     "vendredi": {
@@ -60,13 +60,13 @@
         "nom": "Pizza maison",
         "description": "Pizza maison garnie de sauce tomate, mozzarella et basilic frais.",
         "prix": 9.50,
-        "photo": "https://example.com/pizza_maison.jpg"
+        "photo": "images/pizza.jpeg"
       },
       "dessert": {
         "nom": "Tiramisu",
         "description": "Tiramisu classique au café et mascarpone.",
         "prix": 6.00,
-        "photo": "https://example.com/tiramisu.jpg"
+        "photo": "images/tiramisu.jpeg"
       }
     },
     "samedi": {
@@ -74,13 +74,13 @@
         "nom": "Boeuf bourguignon",
         "description": "Boeuf mijoté au vin rouge avec carottes et champignons.",
         "prix": 14.00,
-        "photo": "https://example.com/boeuf_bourguignon.jpg"
+        "photo": "images/boeuf.jpeg"
       },
       "dessert": {
         "nom": "Crème brûlée",
         "description": "Crème brûlée à la vanille avec une fine couche de caramel croquant.",
         "prix": 5.50,
-        "photo": "https://example.com/creme_brulee.jpg"
+        "photo": "images/creme.jpeg"
       }
     },
     "dimanche": {
@@ -88,13 +88,13 @@
         "nom": "Rôti de veau avec légumes",
         "description": "Rôti de veau tendre accompagné de légumes de saison.",
         "prix": 15.00,
-        "photo": "https://example.com/roti_veau.jpg"
+        "photo": "images/roti.jpeg"
       },
       "dessert": {
         "nom": "Fondant au chocolat",
         "description": "Fondant au chocolat au cœur coulant.",
         "prix": 6.50,
-        "photo": "https://example.com/fondant_chocolat.jpg"
+        "photo": "images/fondant.jpeg"
       }
     }
   }

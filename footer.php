@@ -1,1 +1,4 @@
-<h1>footer></h1>
+<?php
+    echo '<p>&copy; ' . date("Y") . ' Mon Site Web. Tous droits réservés.</p>';
+    echo '<p><a href="mentions-legales.php">Mentions légales</a> | <a href="contact.php">Contact</a></p>';
+?>
