@@ -2,7 +2,7 @@
 
 
 
-async function getData() {          // Fonction asynchrone pour récupérer les données de l'API et les afficher dans le menu
+async function getData() {          // Fonction asynchrone pour récupérer les données de l'API et construit le menu
     const url = "http://localhost/popote-minute/api.php?acceuil";
     try {
         const response = await fetch(url);
@@ -24,16 +24,18 @@ getData();
 
 let param = new URLSearchParams(window.location.search);        // Récupère les paramètres de l'URL
 let path = window.location.pathname;        // Récupère le chemin de l'URL
+
+
 if (path == "/popote-minute/" && param == "") {      // Si l'URL est la page d'accueil
     console.log("home")
-    loadPage("homepage");          // Charge la page 1
+    loadPage("homepage");          
 } else {            // Si l'URL est une autre page
     console.log("autre")
-    const valeur = param.get('page');           // Récupère la valeur du paramètre "page"
+    const valeur = param.get('page');           
     console.log(valeur);
     loadPage(valeur);
 }
-async function loadPage(id) {           // Fonction asynchrone pour charger le contenu de la p
+async function loadPage(id) {           // Fonction asynchrone pour charger le contenu des differente pages en fonction de l'ID
     console.log(id)  
     const url = `http://localhost/popote-minute/api.php?page=${id}`
     console.log(url)
